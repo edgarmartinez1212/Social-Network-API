@@ -79,3 +79,5 @@ Deleting a friend:
 https://github.com/edgarmartinez1212/Social-Network-API
 
 ### Video Walkthrough
+
+https://watch.screencastify.com/v/7R1t9kjy9OvYqlslEBwO
